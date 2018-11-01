@@ -1,0 +1,23 @@
+.orange {
+    color: #f07b00;
+}
+.orange-background {
+    background-color: #f07b00;
+}
+
+.background-darkgrey {
+    background: #262625;
+}
+
+.darkgrey {
+    color: #262625;
+}
+.background-grey {
+    background-color: #616164;
+}
+
+img.logo-picture {
+    max-height: 70px;
+}
+
+

@@ -1,0 +1,20 @@
+#catalog-container {
+    background: url(../images/bg-site.jpg) no-repeat;
+    background-size: cover;
+}
+
+.catalog__item-card {
+    background-color: white;
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075)
+}
+
+.catalog__item-card:hover {
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .075);
+    color: #f07b00;
+    text-underline-color: #f07b00;
+}
+
+.catalog-item__image {
+    max-height: 9rem;
+    max-width: 90rem;
+}

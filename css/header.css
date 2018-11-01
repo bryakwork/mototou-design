@@ -1,0 +1,13 @@
+#header__logo-box {
+    display: inline-block;
+}
+
+#header__description-text {
+    display: inline-flex;
+    align-self: center;
+}
+
+#header__phone {
+    float: right;
+    display: inline-block;
+}
